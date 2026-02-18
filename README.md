@@ -18,7 +18,7 @@
 ## 安装流程
 1. 克隆或下载本项目代码
 ```bash
-git clone
+git clone https://github.com/KaenbyouRin15/secure-query-simulation-main
 cd pir-simulation-main
 ```
 
@@ -67,5 +67,6 @@ python main.py
 3. 示例加密模块使用了ECB模式，不安全，请勿用于真实场景。实际应使用CBC或GCM等认证加密模式。
 
 ---
+
 
 欢迎贡献和改进！ 如果你有任何问题或建议，请提交Issue或Pull Request。
