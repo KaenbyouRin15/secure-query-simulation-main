@@ -19,7 +19,7 @@
 1. 克隆或下载本项目代码
 ```bash
 git clone https://github.com/KaenbyouRin15/secure-query-simulation-main
-cd pir-simulation-main
+cd secure-query-simulation-main
 ```
 
 2. 安装所需的第三方库：
@@ -70,3 +70,4 @@ python main.py
 
 
 欢迎贡献和改进！ 如果你有任何问题或建议，请提交Issue或Pull Request。
+
